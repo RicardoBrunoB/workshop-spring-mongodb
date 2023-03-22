@@ -23,4 +23,4 @@ As consultas de WebServices chamam os métodos POST, DELETE, PUT e GET, este é 
 
 Run `Spring Boot App` to build the project. "mongod" must be runned first.
 
-### Desenvolvido com orientações do curso do professor Nelio Alves disponibilizado na plataforma Udemy.
+## Desenvolvido através de curso disponibilizado na plataforma Udemy.
